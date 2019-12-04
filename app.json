@@ -1,0 +1,19 @@
+{
+    "addons": [
+  
+    ],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ],
+    "description": "DealerTrack-DMS Extension Service",
+    "env": {
+    },
+    "formation": {
+    },
+    "name": "DTDES",
+    "scripts": {
+    },
+    "stack": "heroku-18"
+  }
